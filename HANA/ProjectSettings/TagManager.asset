@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Death
+  - Cake
   layers:
   - Default
   - TransparentFX
@@ -30,7 +31,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - BG
   - 
   - 
   - 
